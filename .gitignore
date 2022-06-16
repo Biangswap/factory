@@ -5,3 +5,5 @@ build/
 migrations/
 
 truffle-config.js
+
+test/CodeHash.sol

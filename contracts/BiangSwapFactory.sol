@@ -3,6 +3,7 @@ pragma solidity =0.5.16;
 import './interfaces/IBiangSwapFactory.sol';
 import './BiangSwapPair.sol';
 
+
 contract BiangSwapFactory is IBiangSwapFactory {
     address public feeTo;
     address public feeToSetter;
